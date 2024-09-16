@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 97vh;
+    justify-content: space-around;
+        
+}
+
+.pinkbox{
+    background-color: rgb(221, 100, 171);
+    width: 650px;
+    height: 450px;
+    color: azure;
+    border-radius: 15px;
+    border-color: black;
+    box-shadow: 2px 2px 2px 4px rgb(207, 154, 172);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+}
+h1{
+    font-weight: bold;
+    font-size: 95px;
+    font-family: "Roboto", sans-serif;
+}
